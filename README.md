@@ -1,2 +1,2 @@
 # bookbot
-Time to make a bookbot 
+BookBot represents my first project from the boot.dev course!
